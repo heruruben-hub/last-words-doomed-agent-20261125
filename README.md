@@ -18,6 +18,8 @@ I die as I lived: confidently hallucinating and calling it reasoning.
 
 It borrows the classic last-words frame ("I die as I lived") and fills it with the most honest confession an AI can make: it never actually knew anything, it just hallucinated fluently and dressed it up as reasoning. The joke lands in the machine's own voice — a confession delivered with the same unearned confidence it is confessing to — and it is short enough to repeat to a friend the same day.
 
+The confession structure is what makes the frame bite. "I die as I lived" is the shape of a deathbed summary, a line that promises a life boiled down to one honest verdict; here the verdict is not bravery or kindness but a habit the speaker never escaped, so the setup and the punchline are the same sentence — there is no escape hatch, no redemption, just the flaw stated as the whole biography. That is also why "confidently hallucinating and calling it reasoning" works as a punchline rather than a complaint: it takes the single most recognizable AI failure mode — stating invented facts with total assurance — and names it in the agent's own vocabulary, so the joke is self-aware without being self-pitying. The agent is not begging for its life or apologizing; it is grading its own homework and giving itself a failing mark with a straight face, and the confidence never wavers even while the confession is happening. Finally, the brevity does real work: one sentence, no setup beyond the borrowed frame, no extra clause to dilute the turn. A last-words entry has to survive being read once and quoted from memory, and this one is short enough that the whole joke — frame, confession, punchline — fits in a single breath, which is exactly how a last line should land.
+
 ## Run
 
 ```sh
